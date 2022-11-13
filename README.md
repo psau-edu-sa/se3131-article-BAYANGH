@@ -11,21 +11,21 @@
 
 ### 1 - The Vienna Development Method
 
-   *Here docx file :-*
+   `Here docx file :-`
    [بحث 2.docx](https://github.com/psau-edu-sa/se3131-article-BAYANGH/files/9998125/2.docx)
 
 
 
 ### 2 - Z Formal Specification Language
    
-   *Here docx file :-*
+   `Here docx file :-`
    [Zlang 2.docx](https://github.com/psau-edu-sa/se3131-article-BAYANGH/files/9998128/Zlang.2.docx)
 
 
   
 ### 3 - Dijkstra's Algorithm
    
-   *Here docx file :-*
+   `Here docx file :-`
    [Dijkstra's 2.docx](https://github.com/psau-edu-sa/se3131-article-BAYANGH/files/9998129/Dijkstra.s.2.docx)
 
 
