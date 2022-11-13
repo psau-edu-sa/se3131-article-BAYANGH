@@ -3,11 +3,11 @@
 
   I written three research for the formal specifications course, and i chose 
   the most interesting topics for me :
-  ```
+  
   - The Vienna Development Method
   - Z Formal Specification Language
   - Dijkstra's Algorithm
-  ```
+  
 
 ### 1 - The Vienna Development Method
 
