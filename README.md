@@ -1,5 +1,6 @@
 # Formal Specifications Research
----
+
+
   I written three research for the formal specifications course, and i chose 
   the most interesting topics for me :
   
@@ -7,7 +8,7 @@
   - Z Formal Specification Language
   - Dijkstra's Algorithm
 
----
+
 ### 1 - The Vienna Development Method
 
    *Here docx file :-*
@@ -28,5 +29,6 @@
    [Dijkstra's 2.docx](https://github.com/psau-edu-sa/se3131-article-BAYANGH/files/9998129/Dijkstra.s.2.docx)
 
 
-----
+
+
 >***Note : This research may have some shortcomings***
